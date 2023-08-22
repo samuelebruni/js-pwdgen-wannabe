@@ -17,7 +17,7 @@ console.log(userColor);
 
 //Chiedere l'età all'utente
 
-const userAge = prompt ("Inserisci la tua attuale età")
+const userAge = prompt ("Inserisci la tua attuale età in formato numerico")
 console.log(userAge);
 
 //Riportare il risultato in pagina
