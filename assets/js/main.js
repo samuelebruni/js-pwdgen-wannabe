@@ -5,7 +5,7 @@
 const userName = prompt ("Inserisci il tuo nome")
 console.log(userName);
 
-//Chiedere il suo all'utente
+//Chiedere il suo cognome all'utente
 
 const userSurname = prompt ("Inserisci il tuo cognome")
 console.log(userSurname);
@@ -17,9 +17,11 @@ console.log(userColor);
 
 //Chiedere l'età all'utente
 
-const userAge = prompt ("Inserisci la tua attuale età in formato numerico")
+const userAge = prompt ("Inserisci la tua attuale età in formato numericoddd")
 console.log(userAge);
 
 //Riportare il risultato in pagina
 
 document.getElementById("info").innerHTML = userName + userSurname + userColor + userAge;
+
+(finish)
